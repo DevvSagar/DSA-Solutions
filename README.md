@@ -1,4 +1,4 @@
-# 🚀 DSA Solutions
+# 🚀 DSA Solutions 
 
 Welcome to my **DSA Solutions** repository.
 
@@ -12,7 +12,7 @@ My goal is to stay consistent, improve my problem-solving ability, and document 
 
 ## 💻 About Me
 
-Hi, I'm **Sagar Singh**.
+Hi, I'm **Sagar Pratap Singh**.
 
 I'm a **Backend Engineer** with experience building scalable backend applications using modern technologies. Alongside backend development, I'm currently mastering **Data Structures & Algorithms** to prepare for software engineering roles at leading tech companies.
 
