@@ -1,7 +1,7 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        INT_MAX = 2**31 - 1   
-        INT_MIN = -2**31      
+        INT_MAX = 2**31 - 1   #constraints
+        INT_MIN = -2**31      #constraints
         reversed_digit = 0
         org_x = x
         x = abs(x)
