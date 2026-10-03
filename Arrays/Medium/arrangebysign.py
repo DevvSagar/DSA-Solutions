@@ -11,3 +11,4 @@ class Solution:
                 ans[neg_index] = num
                 neg_index +=2
         return ans
+
